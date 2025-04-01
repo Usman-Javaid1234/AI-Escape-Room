@@ -1,5 +1,7 @@
 Escape Room Puzzle Game
+
 Overview
+
 Escape Room is a 2D puzzle game built with Pygame where you navigate through a dangerous room filled with traps and enemies. Your goal is to solve the lever puzzle and reach the exit door.
 Game Features
 
@@ -64,11 +66,11 @@ Installation & Running
 
 Ensure Python and Pygame are installed:
 
-Copypip install pygame
+pip install pygame
 
 Run the game:
 
-Copypython game.py
+python game.py
 Developer Notes
 
 The agent AI uses A* pathfinding to navigate the map
